@@ -21,6 +21,7 @@ TaiXuan's Programming Language Lua Lesson
 ### 2019.03.22
 
 * 计划增加有关于C和Linux的有关内容。修改文件目录结构，增加C相关的计划。
+* https://github.com/TaiXuan91/TXLuaLesson/blob/master/src/0X4E_%E4%BB%8ELua%E8%B0%83%E7%94%A8C.md
 
 ### 2018.4.2
 
